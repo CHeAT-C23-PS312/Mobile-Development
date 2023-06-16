@@ -17,6 +17,20 @@ Muhammad Nadhif Nabhan - A151DKX4177 -Mobile Development
 ## User Manual
 To use CHeAT application, simply follow steps provided below.
 
+<h3>Getting Started</h3>
+  
+  Before a user want to use the Siloka Chatbot, they need to install it on their own device. We'll be using Android Studio since its the Official IDE for Android. 
+  Android Studio also provides the fastest tools for building apps on every type of Android device.
+  
+  1. Clone this repository.
+  
+  ```
+  git clone https://github.com/c22-cb02/siloka-client.git
+  ```
+  
+  2. Put it in your own Device and Open it on the Android Studio.
+  3. Run it on an emulator or a real device.
+
 -----
 
 <h3>Starting the App</h3>
