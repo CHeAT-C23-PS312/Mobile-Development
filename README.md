@@ -13,7 +13,6 @@ Muhammad Nadhif Nabhan - A151DKX4177 -Mobile Development
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nadhif-nabhan-651972198/)
 
-
 ## User Manual
 To use CHeAT application, simply follow steps provided below.
 
@@ -90,3 +89,5 @@ On the bottom right menu, there is a profile menu.
 ## References
 - https://www.youtube.com/watch?v=8Pv96bvBJL4
 - https://youtube.com/playlist?list=PL4KX3oEgJcfcDx4VeO4R-aCBJruHpvqBs
+
+<h4>This repository was transferred from (https://github.com/Pranarendra08/CHeAT), our main MD repository before this. So, all commit history was on previous repository.</h4>
