@@ -7,7 +7,7 @@ CHeAT is A Chatbot Application to Help Users Find Recipes Along with The Calorie
 
 Contributor to this repository
 Pranarendra Dwikurnia - A304DSX1178 - Mobile Development [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranarendra08/)
-Muhammad Nadhif Nabhan - A151DKX4177 -Mobile Development [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nadhif-nabhan-651972198/)
+\nMuhammad Nadhif Nabhan - A151DKX4177 -Mobile Development [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nadhif-nabhan-651972198/)
 
 ## User Manual
 To use CHeAT application, simply follow steps provided below.
