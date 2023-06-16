@@ -25,7 +25,7 @@ To use CHeAT application, simply follow steps provided below.
   1. Clone this repository.
   
   ```
-  git clone https://github.com/c22-cb02/siloka-client.git
+  git clone https://github.com/CHeAT-C23-PS312/Mobile-Development.git
   ```
   
   2. Put it in your own Device and Open it on the Android Studio.
