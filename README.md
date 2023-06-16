@@ -19,7 +19,7 @@ To use CHeAT application, simply follow steps provided below.
 
 <h3>Getting Started</h3>
   
-  Before a user want to use the Siloka Chatbot, they need to install it on their own device. We'll be using Android Studio since its the Official IDE for Android. 
+  Before a user want to use the CHeAT, they need to install it on their own device. We'll be using Android Studio since its the Official IDE for Android. 
   Android Studio also provides the fastest tools for building apps on every type of Android device.
   
   1. Clone this repository.
