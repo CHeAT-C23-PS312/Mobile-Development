@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">CHeAT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="on_boarding_desc_1"><b>CHeAT</b> can give you recommendations for food\nrecipes from the ingredients you have.</string>
+    <string name="on_boarding_desc_2"><b>CHeAT</b> can also track the calories\nfrom the food you cook.</string>
+    <string name="onboarding_welcome_text">Welcome</string>
+    <string name="text_start_button">Start</string>
+    <string name="cheat_bot">CHeAT Bot</string>
+    <string name="food_list">Food List</string>
+    <string name="tracker">Tracker</string>
+    <string name="profile">Profile</string>
+    <string name="food_list_text">Food List feature currently not available</string>
+    <string name="tracker_text">Tracker feature currently not available</string>
+    <string name="add_to_tracker">Add this to your tracker</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="steps">Steps</string>
+    <string name="login">Login</string>
+    <string name="login_desc">Find your meal recipe</string>
+    <string name="username">Username</string>
+    <string name="type_username">Type your username</string>
+    <string name="password">Password</string>
+    <string name="type_password">Type your password</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="register">Register</string>
+    <string name="register_desc">Register and cook</string>
+    <string name="register_now">Register Now</string>
+    <string name="example_chatbot">HI, TRY TYPING IN THE COOKING INGREDIENTS THAT \nYOU HAVE RIGHT NOW</string>
+    <string name="chatbot_hint">Type in the ingredients you have...</string>
+    <string name="hi">Hi,</string>
+    <string name="logout">Logout</string>
+    <string name="message_sender_template">This is message</string>
+    <string name="recipe_photo">Recipe Photo</string>
+</resources>
