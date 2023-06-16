@@ -7,9 +7,13 @@ CHeAT is A Chatbot Application to Help Users Find Recipes Along with The Calorie
 
 Contributor to this repository
 
-Pranarendra Dwikurnia - A304DSX1178 - Mobile Development [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranarendra08/)
+Pranarendra Dwikurnia - A304DSX1178 - Mobile Development 
 
-Muhammad Nadhif Nabhan - A151DKX4177 -Mobile Development [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nadhif-nabhan-651972198/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranarendra08/)
+
+Muhammad Nadhif Nabhan - A151DKX4177 -Mobile Development 
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nadhif-nabhan-651972198/)
 
 
 ## User Manual
@@ -27,6 +31,9 @@ Upon completion of installation, open the application. There are some couple ste
 
 **Your screen will appear like this:**
 
+<kbd>
+<img src="https://github.com/CHeAT-C23-PS312/Mobile-Development/assets/92442022/7318497a-000c-4abd-9d14-fb91eb92444b" width="200">
+</kbd>
 
 -----
 
@@ -41,6 +48,9 @@ You will be shown chatbot screen after sucessfully login. You can type any ingre
 
 **Your screen will appear like this:**
 
+<kbd>
+<img src="https://github.com/CHeAT-C23-PS312/Mobile-Development/assets/92442022/42ae5546-5fe5-4b82-8357-6406b6a4c9d7" width="200">
+</kbd>
 
 -----    
 
@@ -52,6 +62,9 @@ On the bottom right menu, there is a profile menu.
 
 **Your screen will appear like this:**
 
+<kbd>
+<img src="https://github.com/CHeAT-C23-PS312/Mobile-Development/assets/92442022/3c23b8ad-b2e7-4499-97ff-0e0a6431b7f7" width="200">
+</kbd>
 
 ## Libraries used
 
@@ -64,4 +77,4 @@ On the bottom right menu, there is a profile menu.
 
 ## References
 - https://www.youtube.com/watch?v=8Pv96bvBJL4
-- 
+- https://youtube.com/playlist?list=PL4KX3oEgJcfcDx4VeO4R-aCBJruHpvqBs
