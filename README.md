@@ -1,6 +1,4 @@
 # Mobile-Development
-Mobile Development CHeAT-C23-PS312
-https://github.com/Pranarendra08/CHeAT
 
 # CHeAT
 CHeAT is A Chatbot Application to Help Users Find Recipes Along with The Calories of The Food
